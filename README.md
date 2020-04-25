@@ -18,3 +18,5 @@ The contact page contains a form so that you can contact me to use my services.
 The resources page contains links to my LinkedIn, GitHub and resume.
 
 Thank you for visiting my portfolio!
+
+![image](https://user-images.githubusercontent.com/60047114/80291407-162db500-8702-11ea-8467-4544274a1a6b.png)
